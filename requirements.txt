@@ -2,3 +2,4 @@ numpy==1.24.3
 streamlit== 1.26.0
 plotly==5.9.0
 pandas==1.5.3
+streamlit-option-menu==0.3.6
